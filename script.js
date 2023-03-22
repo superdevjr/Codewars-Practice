@@ -36,4 +36,21 @@
 //     return numbers.reduce((a, b) => a + b, 0);
 // }
 
+// exercise 3------------------------------------------
 
+
+// function countBy(x, n) {
+//     let z = [];
+//     for (let i = x; i <= x * n; i += x) {
+//         z.push(i)
+//     }
+//     return z
+// }
+
+// console.log(countBy(2, 5))
+
+// countBy(1, 10) === [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// countBy(2, 5) === [2, 4, 6, 8, 10]
+
+
+// exercise 4----------------------------
